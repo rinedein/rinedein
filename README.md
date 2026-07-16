@@ -8,7 +8,7 @@
 
 <p data-importer="text" align="left">My name is Rita and I'm a Frontend Developer from Moscow</p>
 
-<br>
+<br clear="right">
 
 <h2 data-importer="text" align="left">About me</h2>
 
