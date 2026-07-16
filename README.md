@@ -66,7 +66,7 @@
 
 ###
 
-<h2 data-importer="text" align="left"> 🌱 Currently Learning<br><br>- Advanced React<br>- Performance Optimization<br>- Testing<br>- Next.js</h2>
+<p data-importer="text" align="left"> 🌱 Currently Learning<br><br>- Advanced React<br>- Performance Optimization<br>- Testing<br>- Next.js</p>
 
 ###
 
