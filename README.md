@@ -1,26 +1,28 @@
-<img data-importer="image" align="right" height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXYzbXNvMWtuZXZ4MXZzcTBzZWRrOXRhNGg2czljOTBqMTR1aXEzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CQl0tM5gYyqQg/giphy.gif"  />
+<div data-importer="image" align="center">
+  <img data-importer="image" height="290" src="https://cdn.jsdelivr.net/gh/ViratiAkiraNandhanReddy/pixel-art-readme-gifs@v1/gifs/hrzn/7a89dd39-1384-4718-9d8f-f570588a16dd.gif"  />
+</div>
 
-<br>
+###
 
 <h1 data-importer="text" align="left">Hey 👋 What's up?</h1>
 
-<br>
+###
 
 <p data-importer="text" align="left">My name is Rita and I'm a Frontend Developer from Moscow</p>
 
-<br clear="right">
+###
 
 <h2 data-importer="text" align="left">About me</h2>
 
-<br>
+###
 
 <p data-importer="text" align="left">Frontend Developer focused on React and TypeScript.<br><br>💻 I build responsive web applications.<br>📚 Currently improving React ecosystem knowledge.<br>🚀 Interested in building clean and user-friendly interfaces<br>🛠️ Continuously improving my frontend skills</p>
 
-<br>
+###
 
 <h2 data-importer="text" align="left">I code with</h2>
 
-<br>
+###
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -66,12 +68,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
 </div>
 
-<br>
+###
 
 <p data-importer="text" align="left">🌱 Currently Learning<br><br>- Advanced React<br>- Performance Optimization<br>- Testing<br>- Next.js</p>
 
-<br>
+###
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/rinedein/rinedein/snake-output/snake.svg" alt="Snake animation" />
 
-<br>
+###
