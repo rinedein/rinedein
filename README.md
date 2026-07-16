@@ -1,4 +1,4 @@
-<img data-importer="image" align="right" height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamxzN2I3Y2ZxYWc3dnV6a24wb3kwcjN2MGR2d3Bta2hic2plYmxqdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k8kITi9SAwe9JWbUaH/giphy.gif"  />
+<img data-importer="image" align="right" height="500" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXYzbXNvMWtuZXZ4MXZzcTBzZWRrOXRhNGg2czljOTBqMTR1aXEzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CQl0tM5gYyqQg/giphy.gif"  />
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<p data-importer="text" align="left">Frontend Developer focused on React and TypeScript.<br><br>💻 I build responsive web applications.<br>📚 Currently improving React ecosystem knowledge.<br>🎯 Looking for Internship / Junior Frontend opportunities.</p>
+<p data-importer="text" align="left">Frontend Developer focused on React and TypeScript.<br><br>💻 I build responsive web applications.<br>📚 Currently improving React ecosystem knowledge.<br>🎯 Open to new opportunities.</p>
 
 ###
 
@@ -62,11 +62,19 @@
   <img src="https://cdn.simpleicons.org/vite/646CFF" height="40" alt="vite logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
 </div>
 
 ###
 
-<p data-importer="text" align="left"> 🌱 Currently Learning<br><br>- Advanced React<br>- Performance Optimization<br>- Testing<br>- Next.js</p>
+<p data-importer="text" align="left">🌱 Currently Learning<br><br>- Advanced React<br>- Performance Optimization<br>- Testing<br>- Next.js</p>
 
 ###
 
