@@ -1,4 +1,4 @@
-<img data-importer="image" align="right" height="500" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXYzbXNvMWtuZXZ4MXZzcTBzZWRrOXRhNGg2czljOTBqMTR1aXEzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CQl0tM5gYyqQg/giphy.gif"  />
+<img data-importer="image" align="right" height="474" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXYzbXNvMWtuZXZ4MXZzcTBzZWRrOXRhNGg2czljOTBqMTR1aXEzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CQl0tM5gYyqQg/giphy.gif"  />
 
 ###
 
@@ -14,13 +14,7 @@
 
 ###
 
-<p data-importer="text" align="left">Frontend Developer focused on React and TypeScript.<br><br>💻 I build responsive web applications.<br>📚 Currently improving React ecosystem knowledge.<br>🎯 Open to new opportunities.</p>
-
-###
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+<p data-importer="text" align="left">Frontend Developer focused on React and TypeScript.<br><br>💻 I build responsive web applications.<br>📚 Currently improving React ecosystem knowledge.<br>🚀 Interested in building clean and user-friendly interfaces<br>🛠️ Continuously improving my frontend skills</p>
 
 ###
 
@@ -78,10 +72,6 @@
 
 ###
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rinedein/rinedein/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rinedein/rinedein/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rinedein/rinedein/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+<img data-importer="snake" src="https://raw.githubusercontent.com/rinedein/rinedein/snake-output/snake.svg" alt="Snake animation" />
 
 ###
